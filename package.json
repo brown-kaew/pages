@@ -1,0 +1,22 @@
+{
+  "name": "pages",
+  "version": "1.0.0",
+  "description": "My page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brown-kaew/pages.git"
+  },
+  "author": "Kaew Tibkham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brown-kaew/pages/issues"
+  },
+  "homepage": "https://github.com/brown-kaew/pages#readme",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
